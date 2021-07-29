@@ -1,0 +1,19 @@
+.bg-header{
+    background-color: #264653;
+}
+.f-bike{
+    filter: grayscale(100%);
+}
+button{
+    background-color: #E76F51;
+    padding: 5px 15px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+}
+.fa-star {
+ color: #E76F51;
+}
+.text-color{
+    color: #E76F51;
+}
