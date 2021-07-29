@@ -6,7 +6,7 @@
 }
 button{
     background-color: #E76F51;
-    padding: 5px 15px;
+    padding: 5px 25px;
     border: 0;
     border-radius: 5px;
     color: white;
@@ -17,3 +17,12 @@ button{
 .text-color{
     color: #E76F51;
 }
+footer{
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: black;
+
+}
+
